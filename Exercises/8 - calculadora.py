@@ -1,5 +1,3 @@
-# CALCULADORA SIMPLES
-
 print('1. Adição')
 print('2. Subtração')
 print('3. Divisão')

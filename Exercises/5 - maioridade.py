@@ -1,5 +1,3 @@
-# PROGRAMA PARA VERIFICAR QUAL É A MAIOR IDADE
-
 x = int(input('Digite a primeira idade: '))
 y = int(input('Digite a segunda idade: '))
 

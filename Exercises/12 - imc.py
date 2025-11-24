@@ -1,5 +1,3 @@
-# PROGRAMA PARA CALCULAR O IMC
-
 peso = float(input('Digite seu peso: '))
 altura = float(input('Digite sua altura: '))
 

@@ -1,5 +1,3 @@
-# PROGRAMA PARA MOSTRAR SE UM NÚMERO É PAR OU ÍMPAR
-
 x = int(input('Digite um número: '))
 
 

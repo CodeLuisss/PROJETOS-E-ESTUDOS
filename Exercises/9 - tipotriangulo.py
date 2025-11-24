@@ -1,5 +1,3 @@
-# PROGRAMA PARA VERIFICAR O TIPO DE TRIANGULO DE ACORDO COM O TAMANHO DOS LADOS
-
 x = int(input('Digite o primeiro lado: '))
 y = int(input('Digite o segundo lado: '))
 z = int(input('Digite o terceiro lado: '))

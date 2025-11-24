@@ -1,5 +1,3 @@
-# PROGRAMA PARA RECEBER 3 LADOS DE UM TRIANGULO E DIZER SE ELE É VÁLIDO
-
 x = int(input('Digite o primeiro lado: '))
 y = int(input('Digite o segundo lado: '))
 z = int(input('Digite o terceiro lado: '))

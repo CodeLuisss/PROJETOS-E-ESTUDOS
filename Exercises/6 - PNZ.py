@@ -1,5 +1,3 @@
-# PROGRAMA PARA VERIFICAR SE O NÚMERO É POSITIVO, NEGATIVO OU ZERO
-
 x = int(input('Digite um número: '))
 
 

@@ -1,5 +1,3 @@
-# PROGRAMA PARA VERIFICAR SE O ANO É BISSEXTO
-
 ano = int(input('Digite o ano: '))
 
 

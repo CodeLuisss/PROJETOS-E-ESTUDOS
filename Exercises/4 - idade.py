@@ -1,5 +1,3 @@
-# PROGRAMA PARA CLASSIFICAR AS IDADES ENTRE MENOR, ADULTO OU IDOSO
-
 idade = int(input('Digite sua idade: '))
 
 

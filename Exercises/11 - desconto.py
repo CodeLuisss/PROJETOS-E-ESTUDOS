@@ -1,5 +1,3 @@
-#PROGRAMA PARA APLICAR DESCONTO NUM PRODUTO
-
 preco = float(input('Insira o valor do produto: '))
 
 print('1. Sim')
