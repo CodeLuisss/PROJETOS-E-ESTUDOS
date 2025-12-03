@@ -3,7 +3,7 @@
 ### A repository containing my personal projects and activities in **Python**.
 
 
-## *Index*
+# **Index**
 ### **1 - Even or Odd**
 A program to check if the number entered by the user is **Even** or **Odd**.
 
